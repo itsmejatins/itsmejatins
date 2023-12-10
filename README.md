@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Spring Boot, JPA, Hibernate**
 
+- 🔭 I’m looking to work on **Software Development Engineer (SDE) roles**
+
 - 💬 Ask me about **Core Java, Multi Threading, Collections, Docker, Apache Kafka, JUnit, Software Engineering, Data Systems, Computer Networks**
 
 - 📫 How to reach me **jatin.sharma.2498@gmail.com**
