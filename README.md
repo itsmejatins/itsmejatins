@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jatin Sharma</h1>
-<h3 align="center">A passionate backend engineer from India</h3>
+<h3 align="center">A passionate M.Tech CSE Student from IIIT Hyderabad</h3>
 
 - 🌱 I’m currently learning **Spring Boot, JPA, Hibernate**
 
