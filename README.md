@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jatin.sharma.2498@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ToTqUTUx3dPg2a82LMaRHCZ0HDTYkw_h/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Tr2hAEN-J_Vr2tfU19GT7NmKfwgPYmA1/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
