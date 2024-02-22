@@ -3,7 +3,7 @@
 
 - 🔭 I’m looking to work on **SDE roles**, preferably on backend development.
 
-- 💬 Ask me about **Core Java, Multi Threading, Collections, Spring Boot, JPA, Hibernate, Docker, Apache Kafka, JUnit, Software Engineering, Data Systems, Computer Networks, Operating Systems**
+- 💬 Ask me about **Data structure, Algorithms, Core Java, Multi Threading, Collections, Spring Boot, Java Persistent API (JPA), Hibernate ORM, Docker, Apache Kafka, JUnit, Hadoop MapReduce, Domain Driven Desing (DDD), Event Driven Archetecture (EDA), Design patterns, Unified Modelling Language (UML), Object Oriented Programming (OOP), Git, Github, RESTful APIs, Software Engineering, Data Systems, Computer Networks, Operating Systems, Distributed Systems**
 
 - 📫 How to reach me **jatin.sharma.2498@gmail.com**
 
