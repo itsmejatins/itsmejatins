@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jatin Sharma</h1>
-<h3 align="center">A passionate M.Tech CSE Student from IIIT Hyderabad</h3>
+<h3 align="center">SDE 1 at Nxtwve Disruptive Technologies Private Limited</h3>
 
-- 🔭 I’m looking to work on **SDE roles**, preferably on backend development.
+- 🔭 I work in the Sales Pod of Nxtwave mangaing the flows from registration of the user to its exit.
 
-- 💬 Ask me about **Data structure, Algorithms, Core Java, Multi Threading, Collections, Spring Boot, Java Persistent API (JPA), Hibernate ORM, Docker, Apache Kafka, JUnit, Hadoop MapReduce, Domain Driven Desing (DDD), Event Driven Archetecture (EDA), Design patterns, Unified Modelling Language (UML), Object Oriented Programming (OOP), Git, Github, RESTful APIs, Software Engineering, Data Systems, Computer Networks, Operating Systems, Distributed Systems**
+- 💬 Ask me about **Data structure, Algorithms, Core Java, Multi Threading, Collections, Spring Boot, Java Persistent API (JPA), Hibernate ORM, Docker, Apache Kafka, JUnit, Hadoop MapReduce, Domain Driven Desing (DDD), Event Driven Archetecture (EDA), Design patterns, Unified Modelling Language (UML), Object Oriented Programming (OOP), Git, Github, RESTful APIs, Software Engineering, Data Systems, Computer Networks, Operating Systems, Distributed Systems, Django, pytest, unittest.mock**
 
 - 📫 How to reach me **jatin.sharma.2498@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Tr2hAEN-J_Vr2tfU19GT7NmKfwgPYmA1/view?usp=sharing]
+- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1oHsF4MViHf46VvEWo_o5iTRgc0q7v350?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
