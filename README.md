@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jatin Sharma</h1>
 <h3 align="center">SDE 1 at Nxtwve Disruptive Technologies Private Limited</h3>
 
-- 🔭 I work in the Sales Pod of Nxtwave mangaing the flows from registration of the user to its exit.
+- 🔭 I am a backend Django developer at Nxtwave Disruptive Technologies Pvt Ltd.
 
 - 💬 Ask me about **Data structure, Algorithms, Core Java, Multi Threading, Collections, Spring Boot, Java Persistent API (JPA), Hibernate ORM, Docker, Apache Kafka, JUnit, Hadoop MapReduce, Domain Driven Desing (DDD), Event Driven Archetecture (EDA), Design patterns, Unified Modelling Language (UML), Object Oriented Programming (OOP), Git, Github, RESTful APIs, Software Engineering, Data Systems, Computer Networks, Operating Systems, Distributed Systems, Django, pytest, unittest.mock**
 
