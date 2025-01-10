@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Data structure, Algorithms, Core Java, Multi Threading, Collections, Spring Boot, Java Persistent API (JPA), Hibernate ORM, Docker, Apache Kafka, JUnit, Hadoop MapReduce, Domain Driven Desing (DDD), Event Driven Archetecture (EDA), Design patterns, Unified Modelling Language (UML), Object Oriented Programming (OOP), Git, Github, RESTful APIs, Software Engineering, Data Systems, Computer Networks, Operating Systems, Distributed Systems, Django, pytest, unittest.mock**
 
-- 📫 How to reach me **jatin.sharma.2498@gmail.com**
+- 📫 How to reach me **jatin.sharma.7062@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1oHsF4MViHf46VvEWo_o5iTRgc0q7v350?usp=drive_link)
 
